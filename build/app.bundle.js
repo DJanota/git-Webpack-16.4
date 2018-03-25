@@ -71,14 +71,3 @@ throw new Error("Module parse failed: Unexpected token (8:4)\nYou may need an ap
 
 /***/ })
 /******/ ]);
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
